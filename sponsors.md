@@ -23,12 +23,13 @@ We love our sponsors! Thanks for helping us throw an amazing hacker con!
 
 
 ![InfoSecNews](/assets/img/infosecnews-logo.jpg)
-![EthicalHacker](/assets/img/EthicalHacker-logo.jpg)
-![NetSecPodcast](NSP_logo.jpeg)
+![EthicalHacker](/assets/img/EthicalHacker-logo.jpeg)
+![NetSecPodcast](/assets/img/NSP_logo.jpeg)
+
 * [Hacker News Network](https://twitter.com/#!/ThisIsHNN)
 * [NetworkSecurityPodcast](http://www.mckeay.net/2011/11/15/network-security-podcast-episode-259/)
     
 
 ## Banner Exchange Partners
-![Lyaer1](adsf)
-![BAHA](adsf)
+![Lyaer1](/assets/img/layer1_logo.png)
+![BAHA](/assets/img/baha-logo.png)
